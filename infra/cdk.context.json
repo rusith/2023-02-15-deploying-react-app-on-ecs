@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=058940367788:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=058940367788:domainName=divicent.com:region=eu-central-1": {
+    "Id": "/hostedzone/Z2C9C0DS6I70W0",
+    "Name": "divicent.com."
+  }
+}
