@@ -193,7 +193,7 @@ export class InfraStack extends Stack {
 
 
     const hostedZone = PublicHostedZone.fromLookup(this, 'HostedZone', {
-      domainName: 'divicent.com',
+      domainName: 'abc.com',
     })
 
     new ARecord(this, 'AppARecord', {
